@@ -821,25 +821,25 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   sounds:
   - name: Sample1
-    clip: {fileID: 8300000, guid: b03d9626a93525f42baf3d97c9b7233c, type: 3}
-    volume: 1
-    pitch: 1
-    loop: 0
-    playOnAwake: 0
+    clip: {fileID: 8300000, guid: 0580426c988a60f4f902e836f5eb2366, type: 3}
+    volume: 0.379
+    pitch: 0.2
+    loop: 1
+    playOnAwake: 1
     source: {fileID: 0}
   - name: Sample2
-    clip: {fileID: 8300000, guid: 000fdd303d43f4b4680a0fe20accb29a, type: 3}
-    volume: 1
-    pitch: 1
-    loop: 0
-    playOnAwake: 0
+    clip: {fileID: 8300000, guid: d727dec94d15c574db8ec2a212771b19, type: 3}
+    volume: 0.59
+    pitch: 0.1
+    loop: 1
+    playOnAwake: 1
     source: {fileID: 0}
   - name: Sample3
-    clip: {fileID: 8300000, guid: 4dfaef04182f6514697739b044d08539, type: 3}
-    volume: 1
-    pitch: 1
-    loop: 0
-    playOnAwake: 0
+    clip: {fileID: 8300000, guid: 0c7103a1de5ea0047bf0b8b886c57772, type: 3}
+    volume: 0.08
+    pitch: 1.2
+    loop: 1
+    playOnAwake: 1
     source: {fileID: 0}
 --- !u!4 &1142743478
 Transform:

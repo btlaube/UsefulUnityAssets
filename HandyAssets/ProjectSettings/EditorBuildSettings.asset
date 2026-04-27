@@ -6,9 +6,27 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SceneTransitionDemo.unity
+    path: Assets/Scenes/SimpleSceneTransition/SceneTransitionDemo.unity
     guid: 2cda990e2423bbf4892e6590ba056729
   - enabled: 1
-    path: Assets/Scenes/SceneTransitionDemoTwo.unity
+    path: Assets/Scenes/SimpleSceneTransition/SceneTransitionDemoTwo.unity
     guid: b83ba4beb838393478c71e9ae0301694
+  - enabled: 1
+    path: Assets/Scenes/SceneTransitionSystem/SceneTransitionDemo 1.unity
+    guid: 4df0cc1f1d4f69a44acbcaa8a0eb4700
+  - enabled: 1
+    path: Assets/Scenes/SceneTransitionSystem/SceneTransitionDemoTwo 1.unity
+    guid: 4b1eafa5841745a488c912dc0d9ae412
+  - enabled: 1
+    path: Assets/Scenes/AdditiveScenes/Utility.unity
+    guid: 1af75a8c671f6444b9ff15a21c4da54f
+  - enabled: 1
+    path: Assets/Scenes/AdditiveScenes/UI.unity
+    guid: 5ccb99fa989072b4c9faf0ac268502a4
+  - enabled: 1
+    path: Assets/Scenes/AdditiveScenes/GameScene1.unity
+    guid: 3cc53bf4c3b0eda49894ae7d0c84ef46
+  - enabled: 1
+    path: Assets/Scenes/AdditiveScenes/MainMenu.unity
+    guid: 3770c25086650af4f92edc7b27e46c75
   m_configObjects: {}

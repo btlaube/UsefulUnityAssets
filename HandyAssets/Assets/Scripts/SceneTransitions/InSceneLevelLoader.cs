@@ -10,9 +10,4 @@ public class InSceneLevelLoader : MonoBehaviour
     {
         levelLoader = LevelLoader.instance;
     }
-
-    public void LoadScene(int scene)
-    {
-        levelLoader.LoadScene(scene);
-    }
 }

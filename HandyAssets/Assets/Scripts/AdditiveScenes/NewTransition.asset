@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ca90dd10eac60f54ca52622297d762d9, type: 3}
+  m_Name: NewTransition
+  m_EditorClassIdentifier: 
+  transitionObject: {fileID: 6591307548464936542, guid: b86f6f5c6eedb774cab5ecededc22f8f, type: 3}
+  scenesToLoad:
+  - GameScene1
+  scenesToUnload:
+  - MainMenu
+  transitionDuration: 2
